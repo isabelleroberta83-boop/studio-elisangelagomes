@@ -377,9 +377,9 @@ dialog small {
     flex: 0 0 auto;
   }
 
-  .wordmark { width: min(210px, 62%); margin: 0 auto 2px; }
-  .logo { max-height: 17vh; }
-  .location { font-size: 12px; letter-spacing: 0.5px; margin: 2px 0 8px; }
+  .wordmark { width: min(260px, 78%); margin: 0 auto 2px; }
+  .logo { max-height: 23vh; }
+  .location { font-size: 13px; letter-spacing: 0.5px; margin: 4px 0 8px; }
   .location span { margin: 0 4px; }
   .links { gap: 6px; }
 
